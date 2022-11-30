@@ -1,1 +1,1 @@
-##VDI Black Screen Registry Fixes
+VDI Black Screen Registry Fixes
